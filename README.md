@@ -11,7 +11,7 @@ Hola, soy Selene 👋
 
 ⤷ Actualmente estoy fortaleciendo mis conocimientos en programación, bases de datos y desarrollo web mediante proyectos académicos. Me interesa seguir desarrollando mis habilidades técnicas y contribuir en la creación de soluciones tecnológicas que generen valor para los usuarios. 
 
-### Tecnologías y herramientas
+### Tecnologías y herramientas:
 
 <img src="java.png" alt="Java" width="30px"> Java <img src="Microsoft_SQL_Server_2025_icon.svg.png" alt="SQLServer" width="30px"> SQLServer
 
@@ -19,18 +19,18 @@ Hola, soy Selene 👋
 
 <img src="css.png" alt="CSS" width="30px"> CSS 
 
-### Actualmente aprendiendo
+### Actualmente aprendiendo:
 
 * Desarrollo de aplicaciones web
 * Modelado y gestión de bases de datos
 * Spring Boot
 * Linux
 
-### Meta Profesional
+### Meta Profesional:
 
 Busco seguir adquiriendo experiencia mediante proyectos académicos y prácticas preprofesionales que me permitan fortalecer mis conocimientos técnicos y crecer profesionalmente en el área de desarrollo de software.
 
-### Contacto
+### Contacto:
 
 📍 Lima, Perú
 
