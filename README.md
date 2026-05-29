@@ -13,7 +13,7 @@ Estudiante de Computación e Informática en Cibertec, actualmente cursando el t
 
 ### Tecnologías y herramientas
 
-* Java
+* <img src="java.png" alt="Java" width="30px"> Java
 * SQL
 * PostgreSQL
 * HTML
