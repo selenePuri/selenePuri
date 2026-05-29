@@ -3,7 +3,7 @@
 Hola, soy Selene 👋
 </h1>
 
-Estudiante de Computación e Informática en Cibertec (3.er ciclo), enfocada en el aprendizaje de desarrollo de software, bases de datos y tecnologías web.
+🎓 Estudiante de Computación e Informática en Cibertec (3.er ciclo), enfocada en el aprendizaje de desarrollo de software, bases de datos y tecnologías web.
 
 <p align="center">
   <img src="banner.png" width="100%">
