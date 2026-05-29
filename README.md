@@ -1,6 +1,6 @@
 <h1>
-Hola, mi nombre es Selene 👋
 <img src="logo.png" alt="Logo" width="40">
+Hola, mi nombre es Selene 👋
 </h1>
 
 Estudiante de Computación e Informática en Cibertec, actualmente cursando el tercer ciclo de la carrera.
