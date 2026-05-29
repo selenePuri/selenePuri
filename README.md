@@ -25,6 +25,7 @@ Hola, soy Selene 👋
 * Modelado y gestión de bases de datos
 * Spring Boot
 * Linux
+* MySQL
 
 ### Meta Profesional:
 
