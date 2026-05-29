@@ -9,10 +9,6 @@ Hola, soy Selene 👋
   <img src="banner.png" width="100%">
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true" />
-</p>
-
 ⤷ Actualmente estoy fortaleciendo mis conocimientos en programación, bases de datos y desarrollo web mediante proyectos académicos. Me interesa seguir desarrollando mis habilidades técnicas y contribuir en la creación de soluciones tecnológicas que generen valor para los usuarios. 
 
 ### Tecnologías y herramientas
@@ -22,10 +18,6 @@ Hola, soy Selene 👋
 <img src="Logo_PostgreSQL.png" alt="PostgreSQL" width="30px"> PostgreSQL    <img src="html.png" alt="HTML" width="30px"> HTML
 
 <img src="css.png" alt="CSS" width="30px"> CSS 
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,postgres,git,github,spring,linux" />
-</p>
 
 ### Actualmente aprendiendo
 
