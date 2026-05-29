@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hola, soy Selene 👋
 
-<!--
-**selenePuri/selenePuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Computación e Informática en Cibertec, actualmente cursando el tercer ciclo de la carrera.
 
-Here are some ideas to get you started:
+⭐ Me encuentro desarrollando mis habilidades en programación, bases de datos y desarrollo web, con interés en la creación de soluciones tecnológicas que aporten valor a las personas y organizaciones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologías y herramientas
+
+* Java
+* SQL
+* PostgreSQL
+* HTML
+* CSS
+* Git y GitHub
+
+### Actualmente aprendiendo
+
+* Desarrollo de aplicaciones web
+* Modelado y gestión de bases de datos
+* Buenas prácticas de programación
+* Control de versiones con Git
+
+### Objetivos
+
+Busco seguir adquiriendo experiencia mediante proyectos académicos y prácticas preprofesionales que me permitan fortalecer mis conocimientos técnicos y crecer profesionalmente en el área de desarrollo de software.
+
+### Contacto
+
+📍 Lima, Perú
+
+📧 Correo: selenemayorga62@gmail.com
