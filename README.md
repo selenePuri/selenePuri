@@ -13,7 +13,7 @@ Estudiante de Computación e Informática en Cibertec, actualmente cursando el t
 
 ### Tecnologías y herramientas
 
-<img src="java.png" alt="Java" width="30px"> <img src="java_letra.png" width="70px">      <img src="Microsoft_SQL_Server_2025_icon.svg.png" alt="SQLServer" width="30px"> <img src="SQLServer_letra.png" width="70px">
+<img src="java.png" alt="Java" width="30px">Java <img src="Microsoft_SQL_Server_2025_icon.svg.png" alt="SQLServer" width="30px">SQLServer
 
 <img src="Logo_PostgreSQL.png" alt="PostgreSQL" width="30px"> PostgreSQL    <img src="html.png" alt="HTML" width="30px"> HTML
 
@@ -23,8 +23,7 @@ Estudiante de Computación e Informática en Cibertec, actualmente cursando el t
 
 * Desarrollo de aplicaciones web
 * Modelado y gestión de bases de datos
-* Buenas prácticas de programación
-* Control de versiones con Git
+* Spring Boot
 * Linux
 
 ### Objetivos
