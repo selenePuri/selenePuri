@@ -9,6 +9,10 @@ Hola, soy Selene 👋
   <img src="banner.png" width="100%">
 </p>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true" />
+</p>
+
 ⤷ Actualmente estoy fortaleciendo mis conocimientos en programación, bases de datos y desarrollo web mediante proyectos académicos. Me interesa seguir desarrollando mis habilidades técnicas y contribuir en la creación de soluciones tecnológicas que generen valor para los usuarios. 
 
 ### Tecnologías y herramientas
@@ -30,7 +34,7 @@ Hola, soy Selene 👋
 * Spring Boot
 * Linux
 
-### Objetivos
+### Meta Profesional
 
 Busco seguir adquiriendo experiencia mediante proyectos académicos y prácticas preprofesionales que me permitan fortalecer mis conocimientos técnicos y crecer profesionalmente en el área de desarrollo de software.
 
