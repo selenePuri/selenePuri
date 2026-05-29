@@ -9,7 +9,7 @@ Estudiante de Computación e Informática en Cibertec, actualmente cursando el t
   <img src="banner.png" width="100%">
 </p>
 
-⤷ Me encuentro desarrollando mis habilidades en programación, bases de datos y desarrollo web, con interés en la creación de soluciones tecnológicas que aporten valor a las personas y organizaciones.
+⤷ Actualmente me encuentro fortaleciendo mis conocimientos en programación, bases de datos y desarrollo web, participando continuamente en proyectos académicos que me permiten aplicar buenas prácticas de desarrollo y continuar ampliando mis habilidades como desarrolladora. Me interesa contribuir en la creación de soluciones tecnológicas que generen valor y mejorren la experiencia de los usuarios. 
 
 ### Tecnologías y herramientas
 
@@ -25,6 +25,7 @@ Estudiante de Computación e Informática en Cibertec, actualmente cursando el t
 * Modelado y gestión de bases de datos
 * Buenas prácticas de programación
 * Control de versiones con Git
+* Linux
 
 ### Objetivos
 
