@@ -17,7 +17,9 @@ Hola, soy Selene 👋
 
 <img src="Logo_PostgreSQL.png" alt="PostgreSQL" width="30px"> PostgreSQL    <img src="html.png" alt="HTML" width="30px"> HTML
 
-<img src="css.png" alt="CSS" width="30px"> CSS 
+<img src="css.png" alt="CSS" width="30px"> CSS <img src="Eclipse.png" alt="HTML" width="30px"> Eclipse
+
+<img src="NetBeans.png" alt="HTML" width="30px"> NetBeans
 
 ### Actualmente aprendiendo:
 
