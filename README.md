@@ -19,6 +19,10 @@ Hola, soy Selene 👋
 
 <img src="css.png" alt="CSS" width="30px"> CSS 
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,html,css,postgres,git,github,spring,linux" />
+</p>
+
 ### Actualmente aprendiendo
 
 * Desarrollo de aplicaciones web
