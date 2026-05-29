@@ -3,13 +3,13 @@
 Hola, soy Selene 👋
 </h1>
 
-Estudiante de Computación e Informática en Cibertec, actualmente cursando el tercer ciclo de la carrera.
+Estudiante de Computación e Informática en Cibertec (3.er ciclo), enfocada en el aprendizaje de desarrollo de software, bases de datos y tecnologías web.
 
 <p align="center">
   <img src="banner.png" width="100%">
 </p>
 
-⤷ Actualmente me encuentro fortaleciendo mis conocimientos en programación, bases de datos y desarrollo web, participando continuamente en proyectos académicos que me permiten aplicar buenas prácticas de desarrollo y continuar ampliando mis habilidades como desarrolladora. Me interesa contribuir en la creación de soluciones tecnológicas que generen valor y mejorren la experiencia de los usuarios. 
+⤷ Actualmente estoy fortaleciendo mis conocimientos en programación, bases de datos y desarrollo web mediante proyectos académicos. Me interesa seguir desarrollando mis habilidades técnicas y contribuir en la creación de soluciones tecnológicas que generen valor para los usuarios. 
 
 ### Tecnologías y herramientas
 
